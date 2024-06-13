@@ -1,2 +1,2 @@
 # .github
-Encode CLubr - Solana
+Encode Club - Solana
